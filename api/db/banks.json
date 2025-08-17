@@ -1,0 +1,33 @@
+{
+"method_names": [
+	{
+		"id" : 5,
+		"name" : "ВТБ",
+		"currency": "RUB"
+	},
+	{
+		"id" : 4,
+		"name" : "Райффайзен Банк",
+		"currency": "RUB"
+	},
+	{
+		"id" : 3,
+		"name" : "Альфабанк",
+		"currency": "RUB"
+	},
+	{
+		"id" : 2,
+		"name" : "ТБанк",
+		"currency": "RUB"
+	},
+	{
+		"id" : 1,
+		"name" : "Сбербанк",
+		"currency": "RUB"
+	},
+	{
+		"id" : 0,
+		"name" : "По номеру карты",
+		"currency": "RUB"
+	}
+]}
